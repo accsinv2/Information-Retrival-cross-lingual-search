@@ -1,7 +1,7 @@
 1. Sandeep : Complete UI
-2. Anurag  : Suggest ways to implement appropriate model and schema for  English Russian Spanish and German.
+2. Anurag  : Suggest ways to implement appropriate model and schema for  English, Russian, Spanish and German.
 	     Use page ranking or any other clustering method to collect relevant tweets.
-	     Clusterig using carot may be useful..learn 
+	     Clustering using carot may be useful
 	     Look into faceting.			
 3. Vivek/Vipin    :   
 	a) Implement Graphical  Component to show  up in search result
