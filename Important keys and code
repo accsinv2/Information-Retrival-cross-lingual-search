@@ -17,3 +17,8 @@ Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzY29wZSI6Imh0dHBzO
 
 Subscription ID
 111e3664-86a6-4b71-8f72-7a1b4ee7e61b
+
+
+parameters to be used in solr:
+{ "text_en", "text_es", "text_de", "text_ru", "followers","tweet_hashtags", "retweetCount"};
+
